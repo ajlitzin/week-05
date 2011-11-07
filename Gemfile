@@ -1,5 +1,5 @@
 source :rubygems
-
+gem 'ruby-debug19'
 gem 'rake'
 gem 'twitter', "~> 1.7.2"
 
